@@ -1,0 +1,8 @@
+[
+  {
+    "name": "hello",
+    "description": "Sample Pinipig Plugin",
+    "repository": "https://github.com/jmdisuanco/pinipig-plugin-hello",
+    "version": "0.0.1"
+  }
+]
